@@ -1,0 +1,54 @@
+{
+  "part1Questions": [
+    {
+      "id": "p1_home_1",
+      "text": "Do you live in a house or an apartment?",
+      "part": "part1",
+      "topic": "Home",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "p1_work_1",
+      "text": "Do you work or are you a student?",
+      "part": "part1",
+      "topic": "Work & Study",
+      "difficulty": "Easy"
+    }
+  ],
+  "part3Questions": [
+    {
+      "id": "p3_tech_1",
+      "text": "How has modern technology influenced the way people communicate in daily life?",
+      "part": "part3",
+      "topic": "Technology",
+      "difficulty": "Hard"
+    }
+  ],
+  "quickPracticeQuestions": [
+    {
+      "id": "quick_1",
+      "text": "Describe your ideal vacation destination and explain why you would choose it.",
+      "part": "quick",
+      "topic": "Travel",
+      "difficulty": "Medium"
+    }
+  ],
+  "cueCards": [
+    {
+      "id": "cue_tech_1",
+      "topic": "Describe a useful piece of technology that you use regularly.",
+      "category": "Technology",
+      "difficulty": "Medium",
+      "bulletPoints": [
+        "What it is",
+        "When you started using it",
+        "How you use it in your daily life",
+        "And explain why it is so useful to you"
+      ],
+      "sampleFollowUpQuestions": [
+        "How has this technology improved your productivity?",
+        "Do you think older generations find this technology easy to adopt?"
+      ]
+    }
+  ]
+}
