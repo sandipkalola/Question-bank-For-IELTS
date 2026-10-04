@@ -8,11 +8,130 @@
       "difficulty": "Easy"
     },
     {
+      "id": "p1_home_2",
+      "text": "What is your favorite room in your home and why?",
+      "part": "part1",
+      "topic": "Home",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "p1_home_3",
+      "text": "How long have you lived in your current home?",
+      "part": "part1",
+      "topic": "Home",
+      "difficulty": "Easy"
+    },
+    {
       "id": "p1_work_1",
       "text": "Do you work or are you a student?",
       "part": "part1",
       "topic": "Work & Study",
       "difficulty": "Easy"
+    },
+    {
+      "id": "p1_work_2",
+      "text": "Why did you choose that job or field of study?",
+      "part": "part1",
+      "topic": "Work & Study",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "p1_work_3",
+      "text": "What do you find most interesting about your work or studies?",
+      "part": "part1",
+      "topic": "Work & Study",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "p1_town_1",
+      "text": "Where is your hometown located?",
+      "part": "part1",
+      "topic": "Hometown",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "p1_town_2",
+      "text": "What do you like most about living in your hometown?",
+      "part": "part1",
+      "topic": "Hometown",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "p1_town_3",
+      "text": "Has your hometown changed much since you were a child?",
+      "part": "part1",
+      "topic": "Hometown",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "p1_family_1",
+      "text": "Do you spend more time with your family or your friends?",
+      "part": "part1",
+      "topic": "Family & Friends",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "p1_family_2",
+      "text": "What activities do you enjoy doing with your friends?",
+      "part": "part1",
+      "topic": "Family & Friends",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "p1_hobby_1",
+      "text": "What do you usually do in your free time?",
+      "part": "part1",
+      "topic": "Hobbies",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "p1_hobby_2",
+      "text": "Is there a new hobby or sport you would like to try in the future?",
+      "part": "part1",
+      "topic": "Hobbies",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "p1_tech_1",
+      "text": "How often do you use the internet for your work or daily routine?",
+      "part": "part1",
+      "topic": "Technology",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "p1_tech_2",
+      "text": "What electronic device could you not live without?",
+      "part": "part1",
+      "topic": "Technology",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "p1_food_1",
+      "text": "What kind of food do you prefer to eat when you go out?",
+      "part": "part1",
+      "topic": "Food",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "p1_travel_1",
+      "text": "Do you enjoy traveling to new countries or cities?",
+      "part": "part1",
+      "topic": "Travel",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "p1_weather_1",
+      "text": "What type of weather do you enjoy the most?",
+      "part": "part1",
+      "topic": "Weather",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "p1_shop_1",
+      "text": "Do you prefer shopping online or visiting physical stores?",
+      "part": "part1",
+      "topic": "Shopping",
+      "difficulty": "Medium"
     }
   ],
   "part3Questions": [
@@ -22,6 +141,62 @@
       "part": "part3",
       "topic": "Technology",
       "difficulty": "Hard"
+    },
+    {
+      "id": "p3_tech_2",
+      "text": "Do you believe artificial intelligence will replace human jobs in the near future?",
+      "part": "part3",
+      "topic": "Technology",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "p3_tech_3",
+      "text": "What are the ethical concerns surrounding automated decision making in healthcare and education?",
+      "part": "part3",
+      "topic": "Technology",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "p3_edu_1",
+      "text": "In what ways are traditional teaching methods changing with digital educational tools?",
+      "part": "part3",
+      "topic": "Education",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "p3_edu_2",
+      "text": "Should higher education be free for all citizens in a modern society?",
+      "part": "part3",
+      "topic": "Education",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "p3_env_1",
+      "text": "What measures should governments take to reduce urban environmental pollution?",
+      "part": "part3",
+      "topic": "Environment",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "p3_env_2",
+      "text": "How can individuals balance personal convenience with sustainable living habits?",
+      "part": "part3",
+      "topic": "Environment",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "p3_cul_1",
+      "text": "How does tourism impact local cultures and heritage sites?",
+      "part": "part3",
+      "topic": "Culture",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "p3_cul_2",
+      "text": "Is globalization causing traditional regional languages and customs to disappear?",
+      "part": "part3",
+      "topic": "Culture",
+      "difficulty": "Hard"
     }
   ],
   "quickPracticeQuestions": [
@@ -30,6 +205,34 @@
       "text": "Describe your ideal vacation destination and explain why you would choose it.",
       "part": "quick",
       "topic": "Travel",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "quick_2",
+      "text": "How do you think remote work has changed employee productivity and work-life balance?",
+      "part": "quick",
+      "topic": "Work",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "quick_3",
+      "text": "What is a book or film that made a deep impression on you recently, and why?",
+      "part": "quick",
+      "topic": "Media",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "quick_4",
+      "text": "Do you think public transportation in cities should be expanded or replaced by private vehicles?",
+      "part": "quick",
+      "topic": "Urban Life",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "quick_5",
+      "text": "What personal skill would you like to master in the next five years, and how will you achieve it?",
+      "part": "quick",
+      "topic": "Personal Growth",
       "difficulty": "Medium"
     }
   ],
@@ -48,6 +251,198 @@
       "sampleFollowUpQuestions": [
         "How has this technology improved your productivity?",
         "Do you think older generations find this technology easy to adopt?"
+      ]
+    },
+    {
+      "id": "cue_tech_2",
+      "topic": "Describe an artificial intelligence application or software program you find fascinating.",
+      "category": "Technology",
+      "difficulty": "Hard",
+      "bulletPoints": [
+        "What the application or program is",
+        "How you first learned about it",
+        "What tasks it performs",
+        "And explain why you find it fascinating"
+      ],
+      "sampleFollowUpQuestions": [
+        "How do you think AI will transform software development in the future?",
+        "What are the risks of relying too heavily on AI software?"
+      ]
+    },
+    {
+      "id": "cue_ppl_1",
+      "topic": "Describe a person you know who is an inspiration to you.",
+      "category": "People",
+      "difficulty": "Easy",
+      "bulletPoints": [
+        "Who this person is",
+        "How long you have known them",
+        "What achievements or qualities they possess",
+        "And explain why they inspire you"
+      ],
+      "sampleFollowUpQuestions": [
+        "What qualities make a good role model for young people?",
+        "Are famous celebrities always good role models?"
+      ]
+    },
+    {
+      "id": "cue_ppl_2",
+      "topic": "Describe a teacher who influenced your educational journey.",
+      "category": "People",
+      "difficulty": "Medium",
+      "bulletPoints": [
+        "Who the teacher was",
+        "What subject they taught you",
+        "How they taught and supported students",
+        "And explain how they influenced your learning"
+      ],
+      "sampleFollowUpQuestions": [
+        "What qualities define an effective educator?",
+        "How has the role of teachers changed with online education?"
+      ]
+    },
+    {
+      "id": "cue_plc_1",
+      "topic": "Describe a quiet place you like to visit when you want to relax.",
+      "category": "Places",
+      "difficulty": "Easy",
+      "bulletPoints": [
+        "Where this place is",
+        "When you usually go there",
+        "What you do when you are there",
+        "And explain why it helps you relax"
+      ],
+      "sampleFollowUpQuestions": [
+        "Why is it becoming harder to find peaceful places in big cities?",
+        "Should city planners dedicate more space to parks and quiet green areas?"
+      ]
+    },
+    {
+      "id": "cue_exp_1",
+      "topic": "Describe a challenge you faced and successfully overcome.",
+      "category": "Experiences",
+      "difficulty": "Medium",
+      "bulletPoints": [
+        "What the challenge was",
+        "When and where it occurred",
+        "How you addressed or solved it",
+        "And explain what you learned from this experience"
+      ],
+      "sampleFollowUpQuestions": [
+        "Why is overcoming setbacks important for personal development?",
+        "Do young people handle pressure better or worse than older adults?"
+      ]
+    },
+    {
+      "id": "cue_obj_1",
+      "topic": "Describe an item of value or sentiment that you own.",
+      "category": "Objects",
+      "difficulty": "Easy",
+      "bulletPoints": [
+        "What the item is",
+        "How you obtained or received it",
+        "How long you have kept it",
+        "And explain why it holds special meaning for you"
+      ],
+      "sampleFollowUpQuestions": [
+        "Why do people attach emotional value to physical possessions?",
+        "Do modern societies place too much importance on material possessions?"
+      ]
+    },
+    {
+      "id": "cue_evt_1",
+      "topic": "Describe a traditional festival or celebration in your country.",
+      "category": "Events",
+      "difficulty": "Easy",
+      "bulletPoints": [
+        "What event or festival it is",
+        "When and how often it takes place",
+        "What activities people participate in",
+        "And explain why this event is significant in your culture"
+      ],
+      "sampleFollowUpQuestions": [
+        "Are traditional celebrations changing due to modern influence?",
+        "Why is it important to preserve cultural customs for future generations?"
+      ]
+    },
+    {
+      "id": "cue_wrk_1",
+      "topic": "Describe a project or work task that you completed with a team.",
+      "category": "Work",
+      "difficulty": "Medium",
+      "bulletPoints": [
+        "What the project or task was",
+        "Who was on your team",
+        "What role you played",
+        "And explain what contributed to the team success"
+      ],
+      "sampleFollowUpQuestions": [
+        "What skills are most critical for successful teamwork?",
+        "How can team leaders resolve internal conflicts effectively?"
+      ]
+    },
+    {
+      "id": "cue_trv_1",
+      "topic": "Describe a memorable trip or journey you took in the past.",
+      "category": "Travel",
+      "difficulty": "Easy",
+      "bulletPoints": [
+        "Where you went",
+        "Who traveled with you",
+        "What memorable activities you engaged in",
+        "And explain why this journey stands out in your memory"
+      ],
+      "sampleFollowUpQuestions": [
+        "How does traveling broaden a person’s worldview?",
+        "What are the advantages and drawbacks of solo travel?"
+      ]
+    },
+    {
+      "id": "cue_fd_1",
+      "topic": "Describe a special meal or traditional dish from your home region.",
+      "category": "Food",
+      "difficulty": "Easy",
+      "bulletPoints": [
+        "What dish or meal it is",
+        "What ingredients are required to prepare it",
+        "When or on what occasions it is served",
+        "And explain why you enjoy this meal"
+      ],
+      "sampleFollowUpQuestions": [
+        "How have eating habits changed over the past few decades?",
+        "Is home cooking being replaced by fast food and delivery services?"
+      ]
+    },
+    {
+      "id": "cue_hb_1",
+      "topic": "Describe an outdoor activity or sport you enjoy participating in.",
+      "category": "Hobbies",
+      "difficulty": "Easy",
+      "bulletPoints": [
+        "What activity or sport it is",
+        "Where and when you practice it",
+        "Who you usually practice with",
+        "And explain how it benefits your health or wellbeing"
+      ],
+      "sampleFollowUpQuestions": [
+        "Why are outdoor recreation activities essential in modern urban lifestyles?",
+        "Should schools devote more time to physical education?"
+      ]
+    },
+    {
+      "id": "cue_soc_1",
+      "topic": "Describe an environmental rule or law in your country that you think is beneficial.",
+      "category": "Society",
+      "difficulty": "Hard",
+      "bulletPoints": [
+        "What rule or regulation it is",
+        "How citizens are expected to comply with it",
+        "What problem it aims to solve",
+        "And explain why you believe it is beneficial"
+      ],
+      "sampleFollowUpQuestions": [
+        "How can governments encourage citizens to adopt eco-friendly habits?",
+        "Are international environmental agreements effective in combating climate change?"
       ]
     }
   ]
